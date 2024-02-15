@@ -1,0 +1,4 @@
+name: QuitClean
+version: '${project.version}'
+main: me.dean.quitclean.QuitClean
+api-version: '1.20'
